@@ -7,8 +7,8 @@ use warnings;
 use Email::MIME;
 my $message = Email::MIME->create(
   header_str => [
-    From    => 'jonathanwinegar@gmail.com',
-    To      => 'tassidar86@hotmail.com',
+    From    => 'from@website.com',
+    To      => 'to@website.com',
     Subject => 'Perl Email Script',
   ],
   attributes => {
