@@ -1,0 +1,11 @@
+#!usr/bin/perl
+@names = "Aleksandra", "Jonny", "Ian", "John";
+
+
+foreach (@names) {
+print \$_, "\n";
+}
+
+
+
+#$address = 

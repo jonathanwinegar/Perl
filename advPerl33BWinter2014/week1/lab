@@ -1,0 +1,8 @@
+#!/usr/bin/perl/
+use warning;
+use strict;
+
+my $fileName = "maze_01.txt";
+
+
+open(INPUTFILE, $fileName);

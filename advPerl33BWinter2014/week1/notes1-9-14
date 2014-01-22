@@ -1,0 +1,113 @@
+relational data. The Winds of Winter by George RR Martin.
+the relational data between "by" and the authors name.
+unless if it defines an author or by we are going to add Unknown in the hash.
+Making a hash that ties titles to authors.
+
+what does each funciton do?
+it will cycle through teh hash and grab each key value pair.
+
+each(%allitems)
+
+Search for authors by passing an arguement in the command line.
+
+also possible to use grep to search instead of passing a arguement. I should practice the passing arguements so i know how to code that.
+
+dealing with order in hashes
+
+
+
+REFERENCES!!!
+Variables 
+
+dereference a scalar variable $scalar with \
+
+reference
+referent 
+dereferencing
+
+references are scalars
+
+array reference
+
+@
+$
+@$
+\$
+
+
+in perl all arrays are multi dimensional
+
+colums rows for 2d arrays. playing battle ship.
+
+nested for loops to print the array
+
+printing rows and column data
+
+$md_array[0]->[0] = 0;
+
+in fix operators
+
+creating and referencing arrays inside of arrays.
+
+
+Lists of List
+shopping lists, arrays are lists.
+notepad grocery list, costco list, petsmart list
+map that data into a perl array or list.
+add two items to the list
+
+foreach loops with counters
+
+use a C style for loop instead of foreach loop. for incremental i++ j++ counting. initialize variable in one line inside loop for(i=0; i++){}
+
+add labels to those shopping lists.
+
+Hashes of Lists.
+Point your Hash to your array.
+
+
+
+for(i=0; i++;){
+print $array[i];
+}
+
+
+put your data in a database and not in a program.
+
+I need a Database for my contacts.
+
+Dig through my dads old data for contacts. with perl scripts.
+
+hash of hashes will work faster then a hash and array insdie array or something. use relational data to cut through data and get what you need.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 assignments done this week
+also have a lab assignment due saturday 11:55pm.
+
+work in the lab with voyager account.
+
+follow him after class
+
+
+next week we have a homework and lab assignment. will show up in catalyst soon.
+
+
+
+
+
+
+
+

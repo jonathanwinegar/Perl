@@ -1,0 +1,29 @@
+#!/usr/bin/perl
+
+A file handle will not close if a file is still reading it. use a die break for file closes.
+
+use split to split an array into each portion.
+
+Lecture03
+Map/Grep
+
+terniary operator instead of exponential stuff
+
+interesting use of map function
+map does not need to return a single value when it parses.
+line 7 he is creating a hash
+maping values that are prime.
+
+instead of using an array and a database lookup for every query have people use the hash to run quick searches for key pairs on websites?
+
+creating a subroutine
+
+use ARGV on subroutines?
+
+pop instead of shift?
+
+
+
+@_
+
+

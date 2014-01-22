@@ -1,0 +1,97 @@
+#Kevin Metcalf
+#Perl
+#catalyst.deanza.edu to submit assignments
+
+
+#Linux environment, mac shell compatibillity
+
+
+
+#RECAP from 33A
+#Perl philosophy, Open Source?
+#bash shell vs scripting
+#
+
+#Data library(old code from archaic sources)
+
+#JSON data structure?
+
+#log base 2 of n
+#Factorial
+
+#Reverse Polish Notation?
+
+#hashes better for association, logical links between data.
+
+#Arrays are order
+
+#Organize a Hash with sort()?
+
+
+$_   #known as Default Variable. Used for when a scalar is implied but not specified.
+
+@_ #array default, sudo references to the variable (dangerous)
+
+or
+||
+
+#same thing or ||
+#they have different precendence
+
+logical operator precendence?
+
+#Document your code!!!!
+
+
+variable in Main
+start while loop
+my #local?
+hello = 'joe';
+
+new name space once you make while loop.
+
+what is a name space?
+
+from slide 5.1 ^^^^^
+
+
+
+last; #use as break from while loop. How does this work? does it go to last line in script? probably not.
+
+lexically scoping Jane so it prints int the middle
+
+lexically scope with my
+
+if perl doesnt see "my" ITS GONNA DIE WITH AN ERROR!!!! use wrnings and use strict always in all kevin metcalf scripts.
+can i do #!/use/bin/perl -w -s instead of use warnings; use strict;
+
+dont use options instead of using use warnings or use strict.
+
+
+
+Assignment01
+Due beginning of class on Thursday. 
+50 item list file.
+
+Lab assignment will be due Satuday nights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
